@@ -18,7 +18,7 @@ The dataset used for this project is titled "Car Sales Predictions " . It includ
 
 The PBIX file contains various visualizations, including:
 
-- Scatter plots displaying the relationship between car features such as engine size, horsepower, and price.
+- Scatter plots displaying the relationship between car features.
 - Graphs illustrating the distribution of car prices based on different parameters.
 - Filters to interactively explore the data based on engine type, cylinder type, fuel type, and phase (existing or new unseen data).
 
